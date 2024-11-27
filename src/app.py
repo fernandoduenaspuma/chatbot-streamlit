@@ -94,7 +94,7 @@ chain_with_history = RunnableWithMessageHistory(
     output_messages_key="response",
 )
 
-st.title("LangChain DynamoDB Bot")
+st.title("Demp TxD - LangChain DynamoDB Bot")
 
 # Load messages from DynamoDB and populate chat history
 if "messages" not in st.session_state:
