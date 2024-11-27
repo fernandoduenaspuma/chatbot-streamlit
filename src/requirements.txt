@@ -1,0 +1,5 @@
+boto3==1.35.69
+langchain_aws==0.2.7
+langchain_community==0.3.8
+langchain_core==0.3.21
+streamlit==1.40.2
